@@ -1,0 +1,20 @@
+Rehydrate rehydrate stack
+Rehydrate refresh stack
+Rehydrate to rehydrate stacks
+Rehydrate what stacks can you rehydrate
+Rehydrate what can you do
+Funny Watsup
+Funny Disclosure
+Funny what is your TODO list
+Funny can you lead grooming
+Funny how's the documentation coming along
+Gibberish can you tell a joke
+Gibberish can you play something
+Gibberish what is your name
+Gibberish tell us something 
+Gibberish who are you
+StackFinder rehydrate {stack}
+StackFinder use {stack}
+StackFinder do {stack}
+StackFinder {stack}
+StackFinder refresh {stack}
